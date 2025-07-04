@@ -17,7 +17,7 @@
 - 🚀 I love creating **user-friendly** websites & APIs with **JavaScript** and **Node.js**.
 - 🌱 Currently learning more about **backend architecture**, **RESTful APIs**, and **full-stack development**.
 - 🤝 Always open for **collaboration** and open source contributions.
-- 📫 How to reach me: damaradii.nugroho@gmail.com
+- 📫 Email: damaradii.nugroho@gmail.com
 
 ---
 
